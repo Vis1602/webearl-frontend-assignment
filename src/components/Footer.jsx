@@ -1,5 +1,5 @@
 import { Facebook, Linkedin, Twitter, Mail } from 'lucide-react';
-import logo from '../assets/logo.png'; // Adjust the path as necessary
+import logo from '../assets/Logo.png'; // Adjust the path as necessary
 const Footer = () => {
   return (
     <footer className="bg-gradient-to-br from-blue-50 to-white py-8 px-6 relative overflow-hidden">
