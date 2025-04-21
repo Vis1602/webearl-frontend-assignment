@@ -11,7 +11,7 @@ import ServiceCarousel from "./components/ServiceCarousel";
 import Footer from "./components/Footer";
 import Contact from "./components/Contact";
 import Testimonials from "./components/Testinomial";
-import PartnerLogos from "./components/partnerlogos";
+import PartnerLogos from "./components/PartnerLogos";
 function App() {
   return (
     <Router>
